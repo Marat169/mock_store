@@ -1,1 +1,3 @@
-![запуск_кода]()(screenshots\run.png)
+screenshots\run.png
+
+![run_code]()
