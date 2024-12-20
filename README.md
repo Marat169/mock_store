@@ -1,1 +1,1 @@
-![запуск_кода]()screenshots\run.png
+![запуск_кода]()(screenshots\run.png)
